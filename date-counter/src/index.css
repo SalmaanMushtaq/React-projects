@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  text-align: center;
+  margin: 10%;
+  padding: 10px;
+}
+.btn {
+  font-size: large;
+  width: 1.5em;
+  height: 1.5em;
+}
+.step,
+.count {
+  margin: 10px;
+}
+span {
+  font-size: 20px;
+  font-weight: 600;
+}
+input[type="text"] {
+  height: 2em;
+  padding: 5px;
+}
+.btnReset {
+  width: 70px;
+  height: 35px;
+  font-size: 20px;
+}
