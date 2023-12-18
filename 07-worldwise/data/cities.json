@@ -37,28 +37,16 @@
       "id": 98443197
     },
     {
-      "cityName": "Barsilona",
-      "country": "Portugal",
-      "emoji": "🗽",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Kulu",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-17T10:16:00.777Z",
+      "notes": "kulu manali",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "31.956094903232515",
+        "lng": "77.05810546875001"
       },
-      "id": 73930386
-    },
-    {
-      "cityName": "Madrid-Island",
-      "country": "Spain",
-      "emoji": "🚀",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806750
+      "id": 98443198
     }
   ]
 }

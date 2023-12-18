@@ -1,8 +1,10 @@
-import { useQuestions } from "../contexts/QuestionContext";
-
-const Progress = () => {
-  const { index, points, answer, numQuestions, maxPossiblePoints } =
-    useQuestions();
+const Progress = ({
+  index,
+  numQuestions,
+  points,
+  maxPossiblePoints,
+  answer,
+}) => {
   return (
     <header className="progress">
       <progress
