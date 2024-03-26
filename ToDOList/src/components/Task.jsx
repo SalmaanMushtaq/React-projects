@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 const Task = ({ task, onDeleteTask, onDoubeClick }) => {
   return (
     <li

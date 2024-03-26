@@ -29,7 +29,7 @@ const MainPage = () => {
       <header>
         <h1>To-DO-List📃</h1>
         <button onClick={handleAddToggle} className={isOpen ? "btnClose" : ""}>
-          {isOpen ? "❌" : "➕"}
+          {isOpen ? "✖️" : "➕"}
         </button>
       </header>
       <div style={{ marginTop: "10px" }}>

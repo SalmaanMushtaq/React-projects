@@ -3,9 +3,17 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background: rgb(107, 242, 42);
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 0, 1) 0%,
+    rgba(40, 57, 2, 1) 100%
+  );
+}
 .container {
   width: 50%;
-  border: 1px solid rgba(0, 0, 0, 0.75);
+  border: 1px solid whitesmoke;
   padding: 10px;
   margin: 2px auto;
   margin-top: 2%;
